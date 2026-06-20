@@ -16,6 +16,21 @@ A lightweight and interactive To-Do List web app built with vanilla **HTML, CSS,
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/Home-page.jpg)
+
+### Task List
+![List](screenshots/List.jpg)
+
+### Themes
+| Standard 🌊 | Light ☀️ | Dark 🌙 |
+|---|---|---|
+| ![Standard](screenshots/Standard-theme.jpg) | ![Light](screenshots/Light-theme.jpg) | ![Dark](screenshots/Dark-theme.jpg) |
+
+---
+
 ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,6 +51,7 @@ To-Do-List/
 │   └── time.js         # Live date & time display
 ├── assets/
 │   └── favicon.png
+├── screenshots/        # App screenshots for README
 └── index.html          # App entry point
 ```
 
